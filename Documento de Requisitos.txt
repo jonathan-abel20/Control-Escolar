@@ -3,6 +3,11 @@ ______________________________
 
 Requisitos funcioneles 
 RF001: El sistema debe permitir el registro de alumnos.
-RF002: el sistema debe imprimir reporte de calificasiones. 
-RF003: el sistema debe permitir la carga de materia.
+RF002: El sistema debe imprimir reporte de calificasiones. 
+RF003: El sistema debe permitir la carga de materia.
 ___________________________________________________________
+
+Requisitos no Funcionales.
+RNF001:
+RNF002:
+RNF002:
