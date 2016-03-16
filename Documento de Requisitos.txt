@@ -8,6 +8,11 @@ RF003: El sistema debe permitir la carga de materia.
 ___________________________________________________________
 
 Requisitos no Funcionales.
-RNF001:
-RNF002:
-RNF002:
+RNF001:El sistema debe ser usable
+RNF002:el sistema debe ser rapido
+RNF002:El sistema debe ser seguro.
+_____________________________________________________________
+Lista de casos de Uso:
+CU001:registar alumno
+CU002:imprimir kardex
+CU003:cargar materia
