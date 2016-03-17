@@ -1,0 +1,29 @@
+commit cc014c5c3bbd68435413bfbdd1c68bf015164f0e
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Wed Mar 16 10:34:09 2016 -0700
+
+    Conclusiones
+
+commit f3dae5a9fd0e92a6ffc8e451a2cab40df5e6cdab
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Wed Mar 16 10:31:59 2016 -0700
+
+    Lista de casos de uso
+
+commit eb4d3f5879c85efa1a86fd51442ee4eaaa21c216
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Wed Mar 16 10:26:49 2016 -0700
+
+    Requisitos no funcionales
+
+commit 2675089a428fac460e557ea3de132a4935c6795c
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Wed Mar 16 10:21:03 2016 -0700
+
+    requisitos funcionales
+
+commit 8b199cc4abcb6940dcda228c3910674d93454ff8
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Tue Mar 15 10:57:09 2016 -0700
+
+    Documento de requisitos

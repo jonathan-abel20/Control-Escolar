@@ -20,3 +20,11 @@ ________________________________________________
 Conclusiones:
 
 este sistema sirve para gestionar los servisios del departamento  de control escolar.
+__________________________________________________________
+nueva seccion
+1
+2
+3
+4
+5
+6
